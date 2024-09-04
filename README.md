@@ -25,7 +25,7 @@ Performance of model
 - Accuracy
 
 # 
-### Snippets of Project
+### screenshots of Project
 #
 
 ![Screenshot 1](img/screenshot1.png)
