@@ -29,6 +29,6 @@ Performance of model
 ### Snippets of Project
 #
 
-![Screenshot 1](img/Gui1.png)
-![Screenshot 2](img/Gui1.png)
+![Screenshot 1](img/screenshot1.png)
+![Screenshot 2](img/screenshot2.png)
 
