@@ -1,7 +1,6 @@
 # Facial-Recognition-for-Crime-Detection
  Face recognition software to detect criminals in images and videos, noting their time of occurences.
 
-## Demo Video [Link](https://www.youtube.com/watch?v=M5v2rXOalcw)
 
 ### Problem Statement: Build a face recognition analytics system for law enforcement agencies
 #
